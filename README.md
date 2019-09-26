@@ -59,7 +59,7 @@ This is what my playlist looks like:
     - Loudness follows the same pattern. I can see how I rank lower though. I prefer more monotonous or "minimal" sounds which usually aren't the loudest. When I think loud, Amelie Lens comes to mind. That's not what is typically in my playlist (although she is good).
     - Here we see a complete switch! Even if I ranked low on energy and loudness, it seems that my songs are dance-indusers! Partyyyy.
 - Valence:
-    - A measurement of "happyness". Don't know if we should be taking it into consideration given how ambiguous any "happyness" measurements are in the first place but more specifically when considering techno songs. Regardless, if we do so then I'm happier than your average techno-head. Take that.
+    - A measurement of "happiness". Don't know if we should be taking it into consideration given how ambiguous any "happiness" measurements are in the first place but more specifically when considering techno songs. Regardless, if we do so then I'm happier than your average techno-head. Take that.
 - Popularity:
     - Not to brag or anything... but the graph speaks for itself.
     
