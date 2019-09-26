@@ -36,14 +36,10 @@ This is what my playlist looks like:
 ![tfnsvstechnobunker](https://user-images.githubusercontent.com/44204113/65710756-86e8f200-e08b-11e9-87ca-4d146a361e4f.png)
 
 
+***Blue** represents music from my personal playlist. **Orange** represents music coming from the "Techno Bunker" playlist*
+
 
 ## Inference
-
-Blue represents music from my personal playlist. 
-Orange represents music coming from the "Techno Bunker" playlist
-
-Let's first start from the 
-
 #### Similarities:
 
 - Year of Release: 
