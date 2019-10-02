@@ -1,3 +1,6 @@
+## THIS IS OUT OF DATE
+## A NEWER NOTEBOOK IS AVAILABLE
+
 # analyseSpotify
 
 Exploring my music taste through Spotify data.
